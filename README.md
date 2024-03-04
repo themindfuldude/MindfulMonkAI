@@ -1,7 +1,5 @@
 # MindfulMonkAI
 A Mindful AI to Help You Reach Your Goals
 
-![Watch the video](https://youtu.be/bCgFgUSCEII)
-
-https://img.youtube.be/vi/<<bCgFgUSCEII>/maxresdefault.jpg
+[![Mindful Monk AI APP](https://img.youtube.com/vi/bCgFgUSCEII/0.jpg)](https://www.youtube.com/watch?v=bCgFgUSCEII)
 
