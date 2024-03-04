@@ -2,12 +2,10 @@
 
 A Free Mindful AI to Help You Reach Your Goals
 
-[![Mindful Monk AI APP](https://img.youtube.com/vi/T8fIUKRd0lg/0.jpg)](https://www.youtube.com/watch?v=T8fIUKRd0lg)
+![606x480-mindful-monk-ai-blue-aifsb-website-YD0vr5ZaalSo3lnQ](https://github.com/themindfuldude/MindfulMonkAI/assets/130063458/e13b213c-8250-47af-a969-965d88085c85)
+
 
 ## Mindful Monk AI Represents a Revolutionary Approach AI Chatbots
-
-<a href="https://www.youtube.com/watch?v=T8fIUKRd0lg" target="_blank">[![Mindful Monk AI APP](https://img.youtube.com/vi/T8fIUKRd0lg/0.jpg)]</a>
-
 
 Represents a revolutionary approach to artificial intelligence that emphasizes mindfulness, presence and compassion assisting you with a diverse range of tasks, utilizing a step-by-step approach.
 
@@ -19,7 +17,7 @@ Is designed to align seamlessly with your objectives, offering thoughtful, heart
 Ensures that each step is undertaken with utmost care and consideration.
 When specialized expertise is required, Mindful Monk AI calls upon expert mindful AI agents, each uniquely skilled and knowledgeable, to help you achieve your goals with precision and empathy. 🌱
 
-
+[![Mindful Monk AI APP](https://img.youtube.com/vi/T8fIUKRd0lg/0.jpg)](https://www.youtube.com/watch?v=T8fIUKRd0lg)
 
 🔗 Chain of Response (CoR)
 
