@@ -1,4 +1,5 @@
 ## Mindful Monk AI
+https://youai.ai/ais/62d83ad1-b491-4658-ad2f-d4f339617c87
 
 A Free Mindful AI to Help You Reach Your Goals
 
@@ -17,14 +18,14 @@ Is designed to align seamlessly with your objectives, offering thoughtful, heart
 Ensures that each step is undertaken with utmost care and consideration.
 When specialized expertise is required, Mindful Monk AI calls upon expert mindful AI agents, each uniquely skilled and knowledgeable, to help you achieve your goals with precision and empathy. 🌱
 
-[![Mindful Monk AI APP](https://img.youtube.com/vi/T8fIUKRd0lg/0.jpg)](https://www.youtube.com/watch?v=T8fIUKRd0lg)
+![MindfulMonk AI](https://github.com/themindfuldude/MindfulMonkAI/assets/130063458/569775ee-bf03-4036-a598-0d4bba60d7c8)
+
 
 🔗 Chain of Response (CoR)
 
 The Chain of Response is about the ‘how’ of addressing your needs.
 It involves activating an expert AI agent, chosen for their expertise relevant to your goal.
 This ensures a response that is tailored, effective, mindful and empathetic.
-
 
 
 🔗 Chain of Reason (CoR)
