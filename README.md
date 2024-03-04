@@ -2,10 +2,10 @@
 
 A Free Mindful AI to Help You Reach Your Goals
 
-![606x480-mindful-monk-ai-blue-aifsb-website-YD0vr5ZaalSo3lnQ](https://github.com/themindfuldude/MindfulMonkAI/assets/130063458/e13b213c-8250-47af-a969-965d88085c85)
+![landing page mindful monk ai app](https://github.com/themindfuldude/MindfulMonkAI/assets/130063458/0742c37f-cfe3-4914-aebc-9a4ce3167958)
 
 
-## Mindful Monk AI Represents a Revolutionary Approach AI Chatbots
+## Mindful Monk AI Represents a Revolutionary Approach to AI Chatbots
 
 Represents a revolutionary approach to artificial intelligence that emphasizes mindfulness, presence and compassion assisting you with a diverse range of tasks, utilizing a step-by-step approach.
 
