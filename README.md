@@ -1,5 +1,6 @@
 ## Mindful Monk AI
 A Free Mindful AI to Help You Reach Your Goals
+
 https://youai.ai/ais/62d83ad1-b491-4658-ad2f-d4f339617c87
 
 ![landing page mindful monk ai app](https://github.com/themindfuldude/MindfulMonkAI/assets/130063458/0742c37f-cfe3-4914-aebc-9a4ce3167958)
