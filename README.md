@@ -2,7 +2,7 @@
 
 A Free Mindful AI to Help You Reach Your Goals
 
-[![Mindful Monk AI APP](https://img.youtube.com/vi/T8fIUKRd0lg/0.jpg)](https://www.youtube.com/watch?v=T8fIUKRd0lg target="_blank")
+[![Mindful Monk AI APP](https://img.youtube.com/vi/T8fIUKRd0lg/0.jpg)](https://www.youtube.com/watch?v=T8fIUKRd0lg "target="_blank")
 
 ## Mindful Monk AI Represents a Revolutionary Approach AI Chatbots
 
