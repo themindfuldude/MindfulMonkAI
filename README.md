@@ -6,6 +6,8 @@ A Free Mindful AI to Help You Reach Your Goals
 
 ## Mindful Monk AI Represents a Revolutionary Approach AI Chatbots
 
+<a href="https://www.youtube.com/watch?v=T8fIUKRd0lg" target="_blank">[![Mindful Monk AI APP](https://img.youtube.com/vi/T8fIUKRd0lg/0.jpg)]</a>
+
 
 Represents a revolutionary approach to artificial intelligence that emphasizes mindfulness, presence and compassion assisting you with a diverse range of tasks, utilizing a step-by-step approach.
 
