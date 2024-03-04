@@ -1,7 +1,6 @@
 ## Mindful Monk AI
-https://youai.ai/ais/62d83ad1-b491-4658-ad2f-d4f339617c87
-
 A Free Mindful AI to Help You Reach Your Goals
+https://youai.ai/ais/62d83ad1-b491-4658-ad2f-d4f339617c87
 
 ![landing page mindful monk ai app](https://github.com/themindfuldude/MindfulMonkAI/assets/130063458/0742c37f-cfe3-4914-aebc-9a4ce3167958)
 
@@ -12,7 +11,6 @@ Represents a revolutionary approach to artificial intelligence that emphasizes m
 
 
 Is designed to align seamlessly with your objectives, offering thoughtful, heartful, and mindful guidance throughout your journey.
-
 
 
 Ensures that each step is undertaken with utmost care and consideration.
