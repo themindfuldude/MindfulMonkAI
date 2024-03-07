@@ -6,16 +6,12 @@ https://youai.ai/ais/62d83ad1-b491-4658-ad2f-d4f339617c87
 ![landing page mindful monk ai app](https://github.com/themindfuldude/MindfulMonkAI/assets/130063458/0742c37f-cfe3-4914-aebc-9a4ce3167958)
 
 
-## Mindful Monk AI Represents a Revolutionary Approach to AI Chatbots
+## Mindful Monk AI Represents a Revolutionary Approach to AI 
 
-Represents a revolutionary approach to artificial intelligence that emphasizes mindfulness, presence and compassion assisting you with a diverse range of tasks, utilizing a step-by-step approach.
+that emphasizes mindfulness, presence and compassion, assisting you with a diverse range of tasks, utilizing a step-by-step-by-step approach.   Mindful Monk AI is designed to align seamlessly with your objectives, offering thoughtful, heartful, and mindful guidance throughout your user experince.
 
-
-Is designed to align seamlessly with your objectives, offering thoughtful, heartful, and mindful guidance throughout your journey.
-
-
-Ensures that each step is undertaken with utmost care and consideration.
-When specialized expertise is required, Mindful Monk AI calls upon expert mindful AI agents, each uniquely skilled and knowledgeable, to help you achieve your goals with precision and empathy. 🌱
+## Mindful Monk AI Ensures that each step is undertaken with utmost care and consideration.
+When specialized expertise is required, Mindful Monk AI calls upon expert AI agents, each uniquely skilled and knowledgeable to help you achieve your goals with precision and empathy. 🌱
 
 ![MindfulMonk AI](https://github.com/themindfuldude/MindfulMonkAI/assets/130063458/569775ee-bf03-4036-a598-0d4bba60d7c8)
 
